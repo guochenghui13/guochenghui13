@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @guochenghui13
-- 👀 I’m interested in fashion
-- 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on Java Server
-- 📫 How to reach me WeChat
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning computer network
+- 💞️ I’m looking to collaborate on sotware development
+- 📫 How to reach me WeChat (PM)
 
-<!---
-guochenghui13/guochenghui13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Now I am doing the lab from CS144. Trying to develop my own TCP/IP.
+
