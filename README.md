@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning computer network
 - 💞️ I’m looking to collaborate on sotware development
-- 📫 How to reach me WeChat (PM)
+- 📫 How to reach me WeChat (PM)\
+- 📒 Efficient in JAVA. Familiar with Python & C++
 
 -Now I am doing the lab from CS144. Trying to develop my own TCP/IP.
 
