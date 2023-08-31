@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @guochenghui13
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning computer network
-- 💞️ I’m looking to collaborate on sotware development
-- 📫 How to reach me WeChat (PM)\
-- 📒 Efficient in JAVA. Familiar with Python & C++
-
--Now I am doing the lab from CS144. Trying to develop my own TCP/IP.
-
+// github - stats
+https://github-readme-stats.vercel.app/api?username=programmer-zhang&theme=dark&show_icons=true
+// most - used-language
+https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html&theme=dark
+// total - contribution
+https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang&theme=highcontrast
